@@ -1,0 +1,10 @@
+import React from 'react'
+
+export default function App() {
+  return (
+    <div style={{ textAlign: 'center', marginTop: '50px' }}>
+      <h1>🎬 Favorite Movies & TV Shows</h1>
+      <p>Frontend is working in English!</p>
+    </div>
+  )
+}
