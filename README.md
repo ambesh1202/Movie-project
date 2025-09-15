@@ -1,12 +1,10 @@
-# Favorite Movies App (Backend)
-
-## Quick Start
+Favorite Movies App
+ Quick Start
 1. `docker-compose up --build -d`
 2. `docker-compose exec backend sh`
 3. `npm install`
 4. `npx prisma migrate deploy`
 5. `node prisma/seed.js`
-6. Open http://localhost:4000/api-docs
+6. Frontend- http://localhost:3000/
+7. Backend- http://localhost:5000 /
 
-Demo admin credentials:
-- admin@example.com / Admin@123
